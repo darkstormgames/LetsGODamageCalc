@@ -1,10 +1,9 @@
 Honko Damage Calculator
 =======================
 
-Damage Calculator for Pokemon cartridge battles, Gen 1-7.
+Damage Calculator for Pokemon Let´s GO Pikachu and Eevee.
 
-If you are currently looking at Zarel/honko-damagecalc and not a fork, this
-is the official repository for the Pokemon Showdown damage calculator:
+This is the official repository for the Pokemon Showdown damage calculator:
 https://pokemonshowdown.com/damagecalc/
 
 Most notable for having all-vs-one (wall) and one-vs-all (sweeper) calcs.
@@ -13,7 +12,7 @@ Most notable for having all-vs-one (wall) and one-vs-all (sweeper) calcs.
 Instructions
 ------------
 
-Double-click `index.template.html`.
+Modified version for use with a LAMP- or XAMPP-Server for PHP-Support.
 
 
 Credits and license
