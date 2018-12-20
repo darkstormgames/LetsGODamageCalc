@@ -12,7 +12,7 @@ Most notable for having all-vs-one (wall) and one-vs-all (sweeper) calcs.
 Instructions
 ------------
 
-Online-Version: http://darkstormgames.de/
+Online-Version: https://pokemon.darkstormgames.de/
 
 Modified version for use with a LAMP- or XAMPP-Server for PHP-Support.
 
@@ -23,5 +23,7 @@ Credits and license
 MIT License.
 
 Written by Honko. ORAS update by gamut-was-taken. USUM update by Austin. PS theme by Zarel. Other
-contributions by other people; see the repo's commit history and contributor
+contributions by other people; see the original repo's commit history and contributor
 list for the full list.
+
+Original repository: https://github.com/Zarel/honko-damagecalc
