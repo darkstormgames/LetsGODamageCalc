@@ -12,7 +12,8 @@ Most notable for having all-vs-one (wall) and one-vs-all (sweeper) calcs.
 Instructions
 ------------
 
-Online-Version: https://pokemon.darkstormgames.de/
+-- Currently there is no live version of this repository --
+#Online-Version: https://pokemon.darkstormgames.de/
 
 Modified version for use with a LAMP- or XAMPP-Server for PHP-Support.
 
